@@ -1,7 +1,7 @@
 // Add console.log to check to see if our code is working.
 console.log("working");
 
-// Create the map object with center at the San Francisco airport.
+// Create the map object centered on the US.
 let map = L.map('mapid').setView([39.8283, -98.5795], 4);
 
 // Coordinates for each point to be used in the polyline.
